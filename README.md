@@ -84,4 +84,3 @@ Our analysis highlighted the difficulty of accurately predicting movie revenue w
 - Zachary Formes  
 - Ana Ramirez
 
-
