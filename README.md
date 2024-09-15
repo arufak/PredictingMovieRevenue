@@ -2,18 +2,6 @@
 
 This project aims to predict the revenue of movies using a variety of machine learning models and a dataset derived from the TMDB Movie Database. The goal is to help movie producers make informed decisions about how well a movie might perform before release, allowing them to adjust strategies, such as release dates or marketing efforts, accordingly.
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Data Preprocessing](#data-preprocessing)
-- [Features](#features)
-- [Models](#models)
-  - [Best Model Performance](#best-model-performance)
-- [Challenges](#challenges)
-- [Conclusion](#conclusion)
-- [Future Work](#future-work)
-- [Authors](#authors)
-
 ## 📖 Overview
 
 The movie industry generates over $100 billion annually, yet more than 80% of films fail to make a profit. Understanding the factors that drive movie profitability can help studios and producers make better business decisions. Our machine learning models analyze various predictors to estimate a movie's potential revenue prior to its release.
